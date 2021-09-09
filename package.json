@@ -1,0 +1,28 @@
+{
+  "name": "k6-bundle-template",
+  "version": "1.0.0",
+  "description": "K6 bundle template",
+  "scripts": {
+    "bundle": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsonlee/k6-bundle-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnsonlee/k6-bundle-template/issues"
+  },
+  "homepage": "https://github.com/johnsonlee/k6-bundle-template#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
+    "babel-loader": "^8.2.2",
+    "core-js": "^3.17.3",
+    "k6": "0.0.0",
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
